@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 02 10:35:28 CST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0170-9919-2b76-0000099ba808 
+on database directory /home/hadoop/IdeaProjects/ImoocSparkSQLProject/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@12e0f1cb 
+Loaded from file:/home/hadoop/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_232-8u232-b09-0ubuntu1~18.04.1-b09
+user.dir=/home/hadoop/IdeaProjects/ImoocSparkSQLProject
+os.name=Linux
+os.arch=amd64
+os.version=5.3.0-26-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
